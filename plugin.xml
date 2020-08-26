@@ -9,7 +9,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="pruebacordova">
-                <param name="android-package" value="cordova.plugin-pruebacordova.pruebacordova" />
+                <param name="android-package" value="cordova.pluginpruebacordova.pruebacordova" />
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml" />
